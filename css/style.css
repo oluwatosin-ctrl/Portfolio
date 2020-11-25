@@ -316,9 +316,31 @@
 }
 }
 
+@media only screen and (max-width: 768px){
+    .links{
+        display: flex;
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%;
+    }
 
+}
 
+.links{
+    display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
 
+    
+}
+h5{
+    color: #f9f9f9;
+}
+
+.icons{
+    padding-left: 20px;
+}
 
 
 
